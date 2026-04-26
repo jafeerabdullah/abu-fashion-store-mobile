@@ -2,51 +2,50 @@
 
 A modern Flutter + Firebase E-commerce Mobile Application designed with a clean UI and smooth user experience. This project demonstrates a complete online shopping flow including authentication, product browsing, cart management, and order processing.
 
-📦 Orders & Confirmation
-    👤 Profile & Authentication
+## 📦 Features
 
-✨ Features
-    ✔️ User Authentication (Login / Signup)
-    ✔️ Beautiful Home UI with Categories
-    ✔️ Product Listing & Details
-    ✔️ Add to Cart Functionality
-    ✔️ Checkout System
-    ✔️ Payment Method Selection (COD / Card UI)
-    ✔️ Order Placement & Confirmation
-    ✔️ Order History Tracking
-    ✔️ Profile Management
-    ✔️ Clean & Modern UI Design
+✔️ User Authentication (Login / Signup)  
+✔️ Beautiful Home UI with Categories  
+✔️ Product Listing & Details  
+✔️ Add to Cart Functionality  
+✔️ Checkout System  
+✔️ Payment Method Selection (COD / Card UI)  
+✔️ Order Placement & Confirmation  
+✔️ Order History Tracking  
+✔️ Profile Management  
+✔️ Clean & Modern UI Design  
 
-🧑‍💻 Tech Stack
-      Frontend: Flutter (Dart)
-      Backend: Firebase
-      Firebase Authentication
-      Cloud Firestore
-      UI Design: Figma-inspired modern UI
-      Architecture: Modular & scalable structure
+---
 
-📂 Project Structure
-      lib/
-      │── screens/
-      │   ├── auth/
-      │   ├── home/
-      │   ├── product/
-      │   ├── cart/
-      │   ├── checkout/
-      │   ├── orders/
-      │   ├── profile/
-      │
-      │── models/
-      │── services/
-      │── widgets/
-      │── main.dart
+## 🧑‍💻 Tech Stack
 
-👨‍🎓 Author
-      Jafeer Abdullah
-      📧 jafeerabdullah4g@gmail.com
-      📱 +94 77 067 1752
-      💻 GitHub: jafeerabdullah
+- **Frontend:** Flutter (Dart)  
+- **Backend:** Firebase  
+  - Firebase Authentication  
+  - Cloud Firestore  
+- **UI Design:** Figma-inspired modern UI  
+- **Architecture:** Modular & Scalable Structure  
 
+---
+
+## 📁 Project Structure
+---
+
+## 👨‍💻 Author
+
+**Jafeer Abdullah**  
+📧 Email: jafeerabdullah4g@gmail.com  
+📱 Phone: +94 77 067 1752  
+💻 GitHub: https://github.com/jafeerabdullah  
+
+---
+
+## 📱 App Modules
+
+📦 Orders & Confirmation  
+👤 Profile & Authentication  
+
+---
 📱 App Preview
 <img width="469" height="928" alt="Signup" src="https://github.com/user-attachments/assets/687f9e67-0173-4f49-b7ba-8985f8b1a63e" />
 <img width="469" height="928" alt="Profile" src="https://github.com/user-attachments/assets/dd9449fe-174a-4507-8839-6e275aabbd3f" />
