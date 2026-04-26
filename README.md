@@ -29,7 +29,23 @@ A modern Flutter + Firebase E-commerce Mobile Application designed with a clean 
 ---
 
 ## 📁 Project Structure
----
+
+```
+lib/
+├── screens/
+│   ├── auth/
+│   ├── home/
+│   ├── product/
+│   ├── cart/
+│   ├── checkout/
+│   ├── orders/
+│   └── profile/
+│
+├── models/
+├── services/
+├── widgets/
+└── main.dart
+```
 
 ## 👨‍💻 Author
 
@@ -58,6 +74,3 @@ A modern Flutter + Firebase E-commerce Mobile Application designed with a clean 
 <img width="469" height="928" alt="Home" src="https://github.com/user-attachments/assets/da4302e1-b78a-4d1c-a744-dadcd5064bbd" />
 <img width="469" height="932" alt="Checkout" src="https://github.com/user-attachments/assets/bfe5df7f-dbfb-4ec6-9133-ddd6ba6d59cd" />
 <img width="469" height="928" alt="Cart" src="https://github.com/user-attachments/assets/2ac85175-3fd2-483f-af10-34f78e381327" />
-
-
-
