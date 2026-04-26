@@ -70,7 +70,6 @@ lib/
   <img src="https://github.com/user-attachments/assets/687f9e67-0173-4f49-b7ba-8985f8b1a63e" width="200"/>
   <img src="https://github.com/user-attachments/assets/da4302e1-b78a-4d1c-a744-dadcd5064bbd" width="200"/>
   <img src="https://github.com/user-attachments/assets/86b44b27-dc13-4423-8089-a2e47b53c85e" width="200"/>
-  <img src="https://github.com/user-attachments/assets/e47e1380-0858-4d28-9379-0ceb381b08d1" width="200"/>
 </p>
 
 <p align="center">
@@ -78,8 +77,4 @@ lib/
   <img src="https://github.com/user-attachments/assets/bfe5df7f-dbfb-4ec6-9133-ddd6ba6d59cd" width="200"/>
   <img src="https://github.com/user-attachments/assets/e1d1c142-02b2-4984-834d-3be75bf836e6" width="200"/>
   <img src="https://github.com/user-attachments/assets/547ff7b0-b311-4257-b453-c5ef74f9b466" width="200"/>
-  <img src="https://github.com/user-attachments/assets/dd9449fe-174a-4507-8839-6e275aabbd3f" width="200"/>
-</p>
-  <img src="https://github.com/user-attachments/assets/dd9449fe-174a-4507-8839-6e275aabbd3f" width="200" alt="Profile"/>
-  <img src="https://github.com/user-attachments/assets/5cd132b5-88c8-40e6-80df-9c834be5e03f" width="200" alt="Profile Delete"/>
 </p>
