@@ -1,0 +1,5 @@
+package com.example.abu_store
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
